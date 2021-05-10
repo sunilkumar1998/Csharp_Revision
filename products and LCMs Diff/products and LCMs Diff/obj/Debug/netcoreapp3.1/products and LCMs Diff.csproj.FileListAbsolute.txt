@@ -1,0 +1,13 @@
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\bin\Debug\netcoreapp3.1\products and LCMs Diff.exe
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\bin\Debug\netcoreapp3.1\products and LCMs Diff.deps.json
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\bin\Debug\netcoreapp3.1\products and LCMs Diff.runtimeconfig.json
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\bin\Debug\netcoreapp3.1\products and LCMs Diff.runtimeconfig.dev.json
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\bin\Debug\netcoreapp3.1\products and LCMs Diff.dll
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\bin\Debug\netcoreapp3.1\products and LCMs Diff.pdb
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\obj\Debug\netcoreapp3.1\products and LCMs Diff.csprojAssemblyReference.cache
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\obj\Debug\netcoreapp3.1\products and LCMs Diff.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\obj\Debug\netcoreapp3.1\products and LCMs Diff.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\obj\Debug\netcoreapp3.1\products and LCMs Diff.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\obj\Debug\netcoreapp3.1\products and LCMs Diff.dll
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\obj\Debug\netcoreapp3.1\products and LCMs Diff.pdb
+C:\Users\s s infotech\source\repos\products and LCMs Diff\products and LCMs Diff\obj\Debug\netcoreapp3.1\products and LCMs Diff.genruntimeconfig.cache

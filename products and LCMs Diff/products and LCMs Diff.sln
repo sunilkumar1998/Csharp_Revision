@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "products and LCMs Diff", "products and LCMs Diff\products and LCMs Diff.csproj", "{852EBC94-2C75-485B-9B81-5FAD5B889604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852EBC94-2C75-485B-9B81-5FAD5B889604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852EBC94-2C75-485B-9B81-5FAD5B889604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852EBC94-2C75-485B-9B81-5FAD5B889604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852EBC94-2C75-485B-9B81-5FAD5B889604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA8C7EC-5029-4A2C-9514-E3910E61163F}
+	EndGlobalSection
+EndGlobal
