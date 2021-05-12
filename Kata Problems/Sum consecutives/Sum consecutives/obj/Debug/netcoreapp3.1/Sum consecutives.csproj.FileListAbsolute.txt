@@ -1,0 +1,13 @@
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.exe
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.deps.json
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.runtimeconfig.json
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.runtimeconfig.dev.json
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.dll
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.pdb
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.csprojAssemblyReference.cache
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.dll
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.pdb
+C:\Users\s s infotech\source\repos\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.genruntimeconfig.cache
