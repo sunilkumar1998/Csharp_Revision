@@ -1,0 +1,17 @@
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.exe
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.deps.json
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.runtimeconfig.json
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.runtimeconfig.dev.json
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.dll
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.pdb
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductProcessing.dll
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductProcessing.pdb
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.csprojAssemblyReference.cache
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.csproj.CopyComplete
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.dll
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.pdb
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.genruntimeconfig.cache

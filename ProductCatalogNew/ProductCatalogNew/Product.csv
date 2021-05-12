@@ -1,0 +1,10 @@
+ProductCode,Name,Manufacturer,ManufacturingDate,ExpiryDate,Amount,categoryCode
+1,frooti,Parle,25-04-2020,12-09-2022,38,bev
+2,pepsi,PepsiCo,25-04-2020,12-09-2022,48,bev
+3,Appy,Parle,25-04-2020,12-09-2022,180,bev
+4,perk,cadbury,21-04-2020,12-09-2022,10,choc
+5,5 star,cadbury,21-04-2020,12-09-2022,10,choc
+6,Choco,cadbury,21-04-2020,12-09-2022,10,choc
+7,sounDX,portron,21-04-2020,12-09-2022,5999,spek
+8,boat,boat,21-04-2020,12-09-2022,4589,spek
+9,JBlQ,JBL,21-04-2020,12-09-2022,7899,spek

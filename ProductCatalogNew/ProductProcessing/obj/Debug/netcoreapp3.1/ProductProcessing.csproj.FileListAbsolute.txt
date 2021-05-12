@@ -1,0 +1,9 @@
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductProcessing\bin\Debug\netcoreapp3.1\ProductProcessing.deps.json
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductProcessing\bin\Debug\netcoreapp3.1\ProductProcessing.dll
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductProcessing\bin\Debug\netcoreapp3.1\ProductProcessing.pdb
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductProcessing\obj\Debug\netcoreapp3.1\ProductProcessing.csprojAssemblyReference.cache
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductProcessing\obj\Debug\netcoreapp3.1\ProductProcessing.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductProcessing\obj\Debug\netcoreapp3.1\ProductProcessing.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductProcessing\obj\Debug\netcoreapp3.1\ProductProcessing.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductProcessing\obj\Debug\netcoreapp3.1\ProductProcessing.dll
+C:\Users\s s infotech\source\repos\ProductCatalogNew\ProductProcessing\obj\Debug\netcoreapp3.1\ProductProcessing.pdb
